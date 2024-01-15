@@ -1,0 +1,20 @@
+{
+    "usuario1": {
+        "primaria": {
+            "nombre": "Instituto Santo Angel",
+            "ubicacion": "Paisajes del Norte",
+            "inicio": "2007",
+            "cursoInicial": "1º",
+            "final": "2010",
+            "cursoFinal": "3º"
+        },
+        "secundaria": {
+            "nombre": "Institucion Educativa Mario Morales Fe y Alegria",
+            "ubicacion": "Paisajes del Norte",
+            "inicio": "2011",
+            "cursoInicial": "4º",
+            "final": "2019",
+            "cursoFinal": "11º"
+        }
+    }    
+}

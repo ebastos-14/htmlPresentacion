@@ -1,0 +1,11 @@
+{
+    "usuario1": {
+        "nombre": "Edinson Fabian",
+        "apellido": "Bastos Camacho",
+        "fechaNacimiento": "2001/07/14",
+        "edad": "22",
+        "email": "edinsonbastos14@gmail.com",
+        "telefono": "+57 316 881 7908",
+        "recidencia": "Ciudadela Nuevo Giron"
+    }    
+}
