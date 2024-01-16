@@ -1,6 +1,6 @@
 {
     "usuario1": {
-        "primaria": {
+        "educacionPrimaria": {
             "nombre": "Instituto Santo Angel",
             "ubicacion": "Paisajes del Norte",
             "inicio": "2007",
@@ -8,7 +8,7 @@
             "final": "2010",
             "cursoFinal": "3º"
         },
-        "secundaria": {
+        "educacionSecundaria": {
             "nombre": "Institucion Educativa Mario Morales Fe y Alegria",
             "ubicacion": "Paisajes del Norte",
             "inicio": "2011",

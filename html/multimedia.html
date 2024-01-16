@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="sp">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../storage/img/icon.ico" type="image/x-icon">
+    <title>HTML MULTIMEDIA</title>
+    <style>
+        .divBasico {
+          border: 1px solid #000;
+          width: 50%;
+          padding-left: 0.5%;
+          padding-right: 0.5%;
+          padding-top: 0.5%;
+          padding-bottom: 0.5%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Multimedia</h1>
+
+    <h3>Imagen</h3>
+    Admite los siguientes formatos: jpg, jpeg, png, gif, svg, ico<br>
+    <div class="divBasico">
+        <img src="../storage/img/icon.ico" alt="Descripción de la imagen">
+    </div>
+
+    <h3>Audio</h3>
+    Admite los siguientes formatos: mp3, mp4, wav, ogg<br>
+    <div class="divBasico">
+        <audio controls>
+            <source src="../storage/sound/audio.mp3" type="audio/mp3">
+            Tu navegador no soporta el elemento de audio.
+        </audio>
+    </div>
+
+    <h3>Video</h3>
+    Admite los siguientes formatos: mp4, webm, ogv<br>
+    <div class="divBasico">
+        <video width="60%" controls>
+            <source src="../storage/video/video.mp4" type="video/mp4">
+            Tu navegador no soporta el elemento de video.
+        </video>
+    </div>
+
+    <br><br><br>
+    <a href="../index.html"><button>VOLVER</button></a>
+</body>
+</html>
